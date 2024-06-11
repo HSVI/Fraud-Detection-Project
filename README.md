@@ -17,3 +17,5 @@ This project aims to enhance transaction auditing with a Logistic Regression mod
 Utilizing One Hot Encoding throughout its process, this model offers a swift and reliable method to flag transactions for further personal inspection. While it may not replace existing systems, it significantly aids in managing large volumes of transactions efficiently 🔄.
 
 Explore the code and see how advanced fraud detection can be achieved! 🚀
+
+Note: the dataset is too large to upload to the repository
